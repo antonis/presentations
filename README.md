@@ -3,6 +3,7 @@ A repository of my public presentations
 
 # 2018
 [Why Kotlin? (Voxxed Days Athens 2018)](2018/Kotlin-VoxxedAthens2018.pdf)
+
 [A short introduction to the Kotlin language for Java Developers (JHUG, February 2018 Meetup)](2018/KotlinIntro-JHUG.pdf)
 
 # 2017
