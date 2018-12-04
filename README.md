@@ -6,6 +6,8 @@ A repository of my public presentations
 
 [A short introduction to the Kotlin language for Java Developers (JHUG, February 2018 Meetup)](2018/KotlinIntro-JHUG.pdf)
 
+[An introduction to Kotlin Coroutines (Kotlin Athens Meetup, December 2018)](2018/Coroutines-KotlinAthens.pdf)
+
 # 2017
 [An Introduction To Kotlin for Android (GDG Android Athens, October 2017 Meetup)](2017/KotlinIntro.pdf)
 
