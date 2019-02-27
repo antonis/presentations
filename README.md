@@ -1,6 +1,9 @@
 # Presentations
 A repository of my public presentations
 
+# 2019
+[An introduction to Kotlin Coroutines for Android (GDG Android Athens, February 2019)](2019/KotlinCoroutinesAndroid201902.pdf)
+
 # 2018
 [An introduction to Kotlin Coroutines (Kotlin Athens Meetup, December 2018)](2018/Coroutines-KotlinAthens.pdf)
 
